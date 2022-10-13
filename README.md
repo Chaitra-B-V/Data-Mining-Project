@@ -1,4 +1,4 @@
-# Transactional Fraud Detection
+# Detection of Fradulent Transactions in Financial Institution
 
 Financial institutions must be able to spot fraudulent transactions in order to prevent charging clients for goods they did not buy.
 In this research, anamoly detection will be used to determine whether any transactions are fraudulent.
